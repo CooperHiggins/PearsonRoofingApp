@@ -139,8 +139,10 @@ nav#mainNav {
 .logo {
     height: auto;
     width: 5em;
-    margin: -1em;
-    
+    margin: -1em;   
+}
+.circle-logo {
+    width: 15em;
 }
 
 /*YOUTUBE VIDEO*/ 
@@ -167,7 +169,7 @@ footer {
 
 @media(min-width:768px) {
     .navbar-default {
-        border-color: rgba(255,255,255,.3);
+        /*border-color: rgba(255,255,255,.3);*/
         background-color: transparent;
     }
 
@@ -234,7 +236,7 @@ header {
 header .header-content {
     position: relative;
     width: 100%;
-    padding: 100px 15px;
+    padding: 4em 0em 0em 1em;
     text-align: center;
 }
 
