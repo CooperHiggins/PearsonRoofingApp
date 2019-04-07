@@ -369,7 +369,16 @@ header.pages {
     margin-bottom: 0;
 }
 .service-box.testimonials {
-    border: 1px solid black;
+    
+
+}
+.fa-house-damage:before {
+    content: "\f6f1";
+    color: #CC2429;
+}
+.fa-home:before {
+    content: "\f015";
+    color: #CC2429;
 }
 .portfolio-box {
     display: block;
