@@ -8,9 +8,14 @@
 
 
 <url>
-  <loc>https://www.pearsonroofing.com/index.html</loc>
+  <loc>https://www.pearsonroofing.com/</loc>
   <lastmod>2019-10-30T14:52:57+00:00</lastmod>
   <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.pearsonroofing.com/index.html</loc>
+  <lastmod>2019-10-30T14:52:57+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.pearsonroofing.com/dallas-roof-repair-services.html</loc>
@@ -23,18 +28,13 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.pearsonroofing.com/roof-repair-roofing-products.html</loc>
-  <lastmod>2019-10-04T08:36:37+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
   <loc>https://www.pearsonroofing.com/roof-repair-faq.html</loc>
   <lastmod>2019-10-04T07:50:30+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.pearsonroofing.com/roof-repair-roofing-contractors-addison.html</loc>
-  <lastmod>2019-10-30T14:37:24+00:00</lastmod>
+  <lastmod>2019-11-06T23:55:45+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
@@ -44,12 +44,12 @@
 </url>
 <url>
   <loc>https://www.pearsonroofing.com/roof-repair-roofing-contractors-southlake.html</loc>
-  <lastmod>2019-10-30T14:40:10+00:00</lastmod>
+  <lastmod>2019-11-06T23:49:15+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.pearsonroofing.com/roof-repair-roofing-contractors-richardson.html</loc>
-  <lastmod>2019-10-31T19:34:16+00:00</lastmod>
+  <lastmod>2019-10-31T19:55:20+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
